@@ -1,0 +1,1 @@
+# RHVoice for Apple Platforms
