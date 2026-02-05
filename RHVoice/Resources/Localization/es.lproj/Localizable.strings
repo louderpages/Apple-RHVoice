@@ -105,10 +105,10 @@
 "ios_install_voice" = "Instalar voz: %@";
 
 
-"ios_uninstall_voice_hint" = "Toque dos veces para desinstalar la voz seleccionada.";
+"ios_uninstall_voice_hint" = "Toca dos veces para desinstalar la voz seleccionada.";
 
 
-"ios_install_voice_hint" = "Toque dos veces para instalar la voz seleccionada.";
+"ios_install_voice_hint" = "Toca dos veces para instalar la voz seleccionada.";
 
 
 "ios_license" = "Licencia:";
@@ -132,7 +132,7 @@
 "ios_language_screen_voiceover_message" = "La lista de voces está en la parte superior.";
 
 
-"ios_select_quality_voiceover_hint" = "Toque dos veces para seleccionar";
+"ios_select_quality_voiceover_hint" = "Toca dos veces para seleccionar";
 
 
 "ios_languages_settings" = "Configuración de idiomas";
@@ -141,7 +141,7 @@
 "ios_versions" = "Versiones";
 
 
-"ios_application" = "Solicitud";
+"ios_application" = "Aplicación";
 
 
 "ios_application_version_voiceover_label" = "Versión de la aplicación: %@";
@@ -156,10 +156,10 @@
 "ios_language_switching" = "Cambio de idioma";
 
 
-"ios_unsupported_language_alert_message" = "VoiceOver aún no es totalmente compatible con este idioma. Debe desactivar la opción de cambio de idioma de VoiceOver y añadirlo como idioma de Rotor.";
+"ios_unsupported_language_alert_message" = "VoiceOver aún no es totalmente compatible con este idioma. Debes desactivar la opción de cambio de idioma de VoiceOver y añadirlo como idioma de Rotor.";
 
 
-"ios_ok" = "De acuerdo";
+"ios_ok" = "Aceptar";
 
 
 "ios_play_sample" = "Reproducir muestra";
@@ -189,13 +189,13 @@
 "ios_user_guide" = "Guía del usuario";
 
 
-"ios_credit_line1" = "Conexión de [RHVoice](https://rhvoice.com) y VoiceOver, y interfaz de usuario de la aplicación desarrollada por [Ihor Shevchuk](https://github.com/IhorShevchuk)";
+"ios_credit_line1" = "Conexión de [RHVoice](https://rhvoice.com) y VoiceOver, e interfaz de usuario de la aplicación desarrollada por [Ihor Shevchuk](https://github.com/IhorShevchuk)";
 
 
 "ios_credit_line2" = "Todos los derechos © pertenecen a NonRoutine LLC";
 
 
-"ios_app_jailbreak_warning" = "Advertencia: Su dispositivo puede estar comprometido, lo que podría afectar el comportamiento de la aplicación.";
+"ios_app_jailbreak_warning" = "Advertencia: Tu dispositivo puede estar comprometido, lo que podría afectar el comportamiento de la aplicación.";
 
 
 "ios_app_sideloded_warning" = "Advertencia: Puede que te hayan engañado. La aplicación tendrá funciones limitadas. Descárgala desde la App Store.";
