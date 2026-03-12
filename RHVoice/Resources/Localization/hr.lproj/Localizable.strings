@@ -1,0 +1,264 @@
+
+
+"default_voice_title" = "Podrazumjevani glas";
+
+
+"default_voice_dialog_title" = "Odaberi glas";
+
+
+"detect_language_title" = "Otkrivanje jezika";
+
+
+"detect_language_desc" = "Automatsko prebacivanje jezika";
+
+
+"speech_volume" = "Glasnoća govora";
+
+
+"speech_rate" = "Brzina govora";
+
+
+"pseudo_english_title" = "Engleske riječi";
+
+
+"pseudo_english_desc" = "Pokušaj ispravno pročitati engleske riječi";
+
+
+"settings" = "Postavke";
+
+
+"wifi_only_title" = "Samo preko Wi-fija";
+
+
+"wifi_only_desc" = "Preuzimaj glasove samo putem Wi-fi veze";
+
+
+"speech_quality" = "Kvaliteta govora";
+
+
+"languages" = "Jezici";
+
+
+"voice_remove_question" = "Jeste li sigurni da želite ukloniti ovaj glas?";
+
+
+"install" = "Instaliraj";
+
+
+"uninstall" = "Ukloni";
+
+
+"play" = "Reproduciraj";
+
+
+"stop" = "Zaustavi";
+
+
+"increase" = "Povećaj";
+
+
+"decrease" = "Smanji";
+
+
+"reset" = "Resetiraj";
+
+
+"version" = "Verzija";
+
+
+"user_dicts" = "Korisnički rječnici";
+
+
+"add" = "Dodaj";
+
+
+"remove" = "Ukloni";
+
+
+"config_file" = "Konfiguracijska datoteka";
+
+
+"metered_network_warning" = "Ovaj je uređaj trenutno spojen na ograničenu internetsku vezu. Želite li preuzeti glas kada se pojavi neograničeni internet";
+
+
+"download_now" = "Preuzmi sada";
+
+
+"download_later" = "Preuzmi kasnije";
+
+
+"string-array.quality_labels.item_0" = "Najbolje moguće performanse";
+
+
+"string-array.quality_labels.item_1" = "Standardna kvaliteta";
+
+
+"string-array.quality_labels.item_2" = "Najbolja moguća kvaliteta";
+
+
+"ios_no_languages" = "Nema jezika";
+
+
+"ios_main_screen_voiceover_message" = "Popis jezika se nalazi na vrhu";
+
+
+"ios_installing_voice" = "Instaliram glas: %@";
+
+
+"ios_voice_version" = "verzija: %@";
+
+
+"ios_uninstall_voice" = "Uklanjam glas: %@";
+
+
+"ios_install_voice" = "Instaliraj glas: %@";
+
+
+"ios_uninstall_voice_hint" = "Dodirnite dvaput za uklanjanje odabranog glasa.";
+
+
+"ios_install_voice_hint" = "Dodirnite dvaput za instalaciju odabranog glasa.";
+
+
+"ios_license" = "Licenca: ";
+
+
+"ios_yes" = "Da";
+
+
+"ios_no" = "Ne";
+
+
+"Back" = "Nazad";
+
+
+"ios_no_voices" = "Nema glasova";
+
+
+"ios_language_name_and_version" = "Verzija jezika: %@";
+
+
+"ios_language_screen_voiceover_message" = "Popis glasova se nalazi na vrhu";
+
+
+"ios_select_quality_voiceover_hint" = "Dodirnite dvaput za odabir";
+
+
+"ios_languages_settings" = "Postavke jezika";
+
+
+"ios_versions" = "Verzije";
+
+
+"ios_application" = "Aplikacija";
+
+
+"ios_application_version_voiceover_label" = "Verzija aplikacije: %@";
+
+
+"ios_engine_version_voiceover_label" = "Verzija RHVoice sintetizatora govora: %@";
+
+
+"ios_done" = "Gotovo";
+
+
+"ios_language_switching" = "Prebacivanje jezika";
+
+
+"ios_unsupported_language_alert_message" = "VoiceOver još uvijek u potpunosti ne podržava ovaj jezik. Morate postaviti opciju automatskog prepoznavanja jezika na 'isključeno', te ga dodati kao jezik rotora.";
+
+
+"ios_ok" = "U redu";
+
+
+"ios_play_sample" = "Reproduciraj primjer";
+
+
+"ios_stop_sample" = "Zaustavi reprodukciju primjera";
+
+
+"ios_voice_help_button" = "Kako koristiti ovaj glas.";
+
+
+"ios_automatic_updates_on_wifi" = "Automatska ažuriranja putem Wi-fija";
+
+
+"ios_automatic_updates_on_wifi_description" = "Kada omogućite ovu opciju, glasovi i jezici će se ažurirati putem Wi-fi veze prilikom pokretanja aplikacije, te u pozadini.";
+
+
+"ios_has_updates" = "Dostupna ažuriranja";
+
+
+"ios_update" = "Ažuriraj";
+
+
+"ios_licenses" = "Licence";
+
+
+"ios_user_guide" = "Korisnički priručnik";
+
+
+"ios_credit_line1" = "Most između [RHVoicea](https://rhvoice.com) i VoiceOvera, i korisničko sučelje aplikacije razvio je [Ihor Shevchuk](https://github.com/IhorShevchuk)";
+
+
+"ios_credit_line2" = "Sva © prava pridržava NonRoutine LLC";
+
+
+"ios_app_jailbreak_warning" = "Upozorenje: Vaš je uređaj ranjiv, što može utjecati na ponašanje aplikacije.";
+
+
+"ios_app_sideloded_warning" = "Upozorenje: Možda ste postali žrtva prijevare. Aplikacija će raditi ograničeno. Molimo preuzmite aplikaciju iz  App Storea.";
+
+
+"ios_refresh" = "Osvježi";
+
+
+"ios_userguide_link" = "https://rhvoice.com/apple_support#h1";
+
+
+"ios_go_to_appstore" = "Otvori App Store";
+
+
+"ios_cancel" = "Odustani";
+
+
+"ios_try_a_subscription" = "Isprobaj pretplatu";
+
+
+"ios_subscription_description" = "Prije nego što isprobate pretplatu, uvjerite se da je glas povezan i funkcionira. Čuti ćete demonstracijske poruke, ali će iste nestati kada nabavite pretplatu.";
+
+
+"ios_subscription_button" = "Pogledaj ponude pretplati";
+
+
+"ios_manage_subscription_button" = "Upravljaj pretplatama";
+
+
+"ios_language_switching_name" = "Prebacivanje jezika";
+
+
+"ios_subscription_trial_suffix" = "Najprije besplatno, a nakon toga";
+
+
+"ios_subscription_auto_renewable" = "Automatska obnavljanja";
+
+
+"ios_subscription_non_renewable" = "Unaprijed plaćeno";
+
+
+"ios_disconnected" = "Nije spojeno";
+
+
+"ios_connected" = "Spojeno";
+
+
+"ios_failed_to_connect" = "Spajanje nije bilo moguće";
+
+
+"ios_speech_engine" = "Govorna jedinica";
+
+
+"string-array.ios_quality_labels_short.item.performance" = "Performanse";
+
+
+"string-array.ios_quality_labels_short.item.quality" = "Kvaliteta";
